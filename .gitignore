@@ -1,0 +1,12 @@
+ pycache/
+*.py[cod]
+*$py.class
+*.so
+myenv/
+env/
+venv/
+ENV/
+.env
+.env.*
+!.env.example
+secrets.toml

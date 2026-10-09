@@ -1,0 +1,9 @@
+sku,name,category,stock,reorder_level,unit_cost
+SKU-1001,Wireless Mouse,Electronics,4,15,18.5
+SKU-1002,Mechanical Keyboard,Electronics,25,10,55.0
+SKU-1003,USB-C Hub,Accessories,7,20,22.0
+SKU-1004,Laptop Stand,Accessories,18,10,28.0
+SKU-1005,HDMI Cable 2m,Cables,2,25,6.5
+SKU-1006,Webcam 1080p,Electronics,35,12,42.0
+SKU-1007,Noise Cancelling Headset,Audio,9,15,85.0
+SKU-1008,Mousepad XL,Accessories,50,15,9.0

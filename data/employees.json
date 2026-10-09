@@ -1,0 +1,30 @@
+[
+  {
+    "employee_id": "EMP-01",
+    "name": "Alice Johnson",
+    "department": "Engineering",
+    "role": "Senior Developer",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-02",
+    "name": "Bob Smith",
+    "department": "Supply Chain",
+    "role": "Logistics Manager",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-03",
+    "name": "Carol Danvers",
+    "department": "Finance",
+    "role": "Accounts Auditor",
+    "status": "active"
+  },
+  {
+    "employee_id": "EMP-04",
+    "name": "David Miller",
+    "department": "Operations",
+    "role": "Inventory Supervisor",
+    "status": "on_leave"
+  }
+]
