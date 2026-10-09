@@ -138,15 +138,7 @@ streamlit run app.py
 The dashboard provides a web interface for submitting workflow requests
 and viewing results.
 
-### Terminal interface
 
-``` bash
-python main.py
-```
-
-Use the terminal interface to submit requests. If supported by the
-implementation, commands may include `help`, `workflows`, `clear`, and
-`exit`.
 
 ### Run evaluation tests
 
